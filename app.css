@@ -1,0 +1,55 @@
+md-content .ext-content {
+    padding: 50px;
+    margin: 20px;
+    background-color: #FFF2E0; }
+.ext-content{
+    max-height: inherit;
+}
+.lightgray{
+    background-color: #9acfea;
+}
+.lightgreen{
+
+}
+md-sidemenu-button{
+    background-color: darkcyan;
+}
+
+
+.menuButton{
+    background-color: darkcyan;
+    color:#000;
+
+    border-radius: 5px;
+    margin: 5px 10px;
+    min-width: 40px;
+    padding: 0px;
+    padding-right: 18px;
+
+
+}
+.navButton2{
+    /*width: 20px;*/
+    text-align: -webkit-center;
+    border-bottom: 1px solid #05717b;
+    line-height: 35px;
+
+    margin: 0px;
+    font-weight: 600;
+    list-style-type: none;
+    color: #e8edef;
+    outline: none;
+    text-align: center;
+}
+.md-sidenav-left{
+    background-color: cadetblue;
+}
+.mdtoolbar{
+    background-color: #0f0f0f;
+}
+.menuButton:hover{
+    background-color: darkcyan;
+    color:#000;
+    min-width: 40px;
+    border-radius: 5px;
+}
